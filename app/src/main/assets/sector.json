@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "name": "Investment"
+  },
+  {
+    "id": 2,
+    "name": "Finance"
+  },
+  {
+    "id": 3,
+    "name": "Stock Market"
+  },
+  {
+    "id": 4,
+    "name": "Technology"
+  },
+  {
+    "id": 5,
+    "name": "Health care"
+  },
+  {
+    "id": 6,
+    "name": "Economics"
+  },
+  {
+    "id": 7,
+    "name": "Construction"
+  },
+  {
+    "id": 8,
+    "name": "Mining"
+  },
+  {
+    "id": 9,
+    "name": "Financial services"
+  },
+  {
+    "id": 10,
+    "name": "Agriculture"
+  },
+  {
+    "id": 11,
+    "name": "Aerospace"
+  },
+  {
+    "id": 12,
+    "name": "Infrastructure"
+  },
+  {
+    "id": 13,
+    "name": "Logistics"
+  },
+  {
+    "id": 14,
+    "name": "Advertising"
+  },
+  {
+    "id": 15,
+    "name": "Retail"
+  },
+  {
+    "id": 16,
+    "name": "Trade"
+  },
+  {
+    "id": 17,
+    "name": "Production"
+  },
+  {
+    "id": 18,
+    "name": "Entertainment"
+  },
+  {
+    "id": 19,
+    "name": "Communcation"
+  },
+  {
+    "id": 20,
+    "name": "Computers and information technology"
+  },
+  {
+    "id": 21,
+    "name": "Real Estate"
+  },
+  {
+    "id": 22,
+    "name": "Stock Exchange"
+  },
+  {
+    "id": 23,
+    "name": "Energy industry"
+  },
+  {
+    "id": 24,
+    "name": "Energy"
+  },
+  {
+    "id": 25,
+    "name": "Strategy"
+  },
+  {
+    "id": 26,
+    "name": "Materials science"
+  },
+  {
+    "id": 27,
+    "name": "Sport"
+  },
+  {
+    "id": 28,
+    "name": "Design"
+  },
+  {
+    "id": 29,
+    "name": "Forestry"
+  },
+  {
+    "id": 30,
+    "name": "Fishery"
+  },
+  {
+    "id": 31,
+    "name": "Transport"
+  },
+  {
+    "id": 32,
+    "name": "Education"
+  },
+  {
+    "id": 33,
+    "name": "Rail transport"
+  },
+  {
+    "id": 34,
+    "name": "Operations management"
+  },
+  {
+    "id": 35,
+    "name": "Telecommunications"
+  },
+  {
+    "id": 36,
+    "name": "Food industry"
+  },
+  {
+    "id": 37,
+    "name": "Marketing"
+  },
+  {
+    "id": 38,
+    "name": "Research"
+  },
+  {
+    "id": 39,
+    "name": "Information and communcations technology"
+  },
+  {
+    "id": 40,
+    "name": "Capital market"
+  },
+  {
+    "id": 41,
+    "name": "Law"
+  },
+  {
+    "id": 42,
+    "name": "Media"
+  },
+  {
+    "id": 43,
+    "name": "Tire"
+  },
+  {
+    "id": 43,
+    "name": "Medicine"
+  },
+  {
+    "id": 44,
+    "name": "Electronics"
+  },
+  {
+    "id": 45,
+    "name": "Internet"
+  }
+]
